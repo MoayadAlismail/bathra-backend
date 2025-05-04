@@ -1,0 +1,15 @@
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/bin/Debug/net7.0/Bathra.Application.deps.json
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/bin/Debug/net7.0/Bathra.Application.dll
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/bin/Debug/net7.0/Bathra.Application.pdb
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/bin/Debug/net7.0/Bathra.Domain.dll
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/bin/Debug/net7.0/Bathra.Domain.pdb
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/obj/Debug/net7.0/Bathra.Application.csproj.AssemblyReference.cache
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/obj/Debug/net7.0/Bathra.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/obj/Debug/net7.0/Bathra.Application.AssemblyInfoInputs.cache
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/obj/Debug/net7.0/Bathra.Application.AssemblyInfo.cs
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/obj/Debug/net7.0/Bathra.Application.csproj.CoreCompileInputs.cache
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/obj/Debug/net7.0/Bathra.Application.csproj.CopyComplete
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/obj/Debug/net7.0/Bathra.Application.dll
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/obj/Debug/net7.0/refint/Bathra.Application.dll
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/obj/Debug/net7.0/Bathra.Application.pdb
+/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/obj/Debug/net7.0/ref/Bathra.Application.dll

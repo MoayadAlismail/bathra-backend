@@ -1,10 +1,10 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    "net7.0": {
       "Bathra.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/Bathra.Domain.dll": {}
         },
@@ -22,45 +22,37 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
+    "net7.0": [
       "Bathra.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zia.shahid\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/moayadalismail/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Zia\\Practical\\upwork\\MoayadAlismail\\Bathra\\Bathra.Application\\Bathra.Application.csproj",
+      "projectUniqueName": "/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/Bathra.Application.csproj",
       "projectName": "Bathra.Application",
-      "projectPath": "D:\\Zia\\Practical\\upwork\\MoayadAlismail\\Bathra\\Bathra.Application\\Bathra.Application.csproj",
-      "packagesPath": "C:\\Users\\zia.shahid\\.nuget\\packages\\",
-      "outputPath": "D:\\Zia\\Practical\\upwork\\MoayadAlismail\\Bathra\\Bathra.Application\\obj\\",
+      "projectPath": "/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/Bathra.Application.csproj",
+      "packagesPath": "/Users/moayadalismail/.nuget/packages/",
+      "outputPath": "/Users/moayadalismail/Desktop/bathra-backend/Bathra.Application/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\zia.shahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/moayadalismail/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Zia\\Practical\\upwork\\MoayadAlismail\\Bathra\\Bathra.Domain\\Bathra.Domain.csproj": {
-              "projectPath": "D:\\Zia\\Practical\\upwork\\MoayadAlismail\\Bathra\\Bathra.Domain\\Bathra.Domain.csproj"
+            "/Users/moayadalismail/Desktop/bathra-backend/Bathra.Domain/Bathra.Domain.csproj": {
+              "projectPath": "/Users/moayadalismail/Desktop/bathra-backend/Bathra.Domain/Bathra.Domain.csproj"
             }
           }
         }
@@ -69,16 +61,11 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
@@ -95,7 +82,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
       }
     }
   }
